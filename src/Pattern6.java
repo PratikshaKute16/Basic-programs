@@ -13,6 +13,7 @@ public class Pattern6 {
                 System.out.print(" ");
             for (int k = 4; k >= i; k--) {
                 System.out.print("*");
+
             }
             System.out.println();
         }
