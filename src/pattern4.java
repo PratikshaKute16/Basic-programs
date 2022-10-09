@@ -5,9 +5,9 @@ public class pattern4 {
                 System.out.print(" ");
 //
             for (int k=5;k>=i;k--){
-                System.out.print("* ");
+                System.out.print("*");
             }
-            System.out.println(" ");
+            System.out.println();
 
         }
     }
