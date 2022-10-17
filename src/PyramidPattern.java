@@ -7,6 +7,7 @@ public class PyramidPattern {
                 {
                     System.out.print(" *");
                 }
+
                 System.out.println();
 
         }
