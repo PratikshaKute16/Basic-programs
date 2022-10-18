@@ -5,7 +5,7 @@ public class HollowSquare {
                 if(j==1||j==5 || i==1 || i==5)
                     System.out.print("* ");
                 else
-                    System.out.print("  ");
+                    System.out.print(" ");
             }
             System.out.println();
 
