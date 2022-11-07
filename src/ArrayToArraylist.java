@@ -9,7 +9,7 @@ public class ArrayToArraylist {
 //        Collections.addAll(l,s);
 //        System.out.println(l);
         for(String string:s){
-            l.add(string);
+            l.add(string) ;
         }
         System.out.println(l);
 
