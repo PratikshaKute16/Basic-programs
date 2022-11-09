@@ -20,7 +20,7 @@ public class Test1 {
                 for( int i=1;i<=size;i++){
                     result=result+Number[i];
                 }
-                     return result;
+                     return result ;
 
 
 
